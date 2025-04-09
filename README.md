@@ -1,3 +1,5 @@
 # keyboard-shortcuts
    There will be useful and interesting keyboard shortcuts here.
-   (This is also my first repository, so please give me some advice.)
+
+   For the first repository, I came up with the idea to make a project about keyboard shortcuts.I can say for learning on github.Don't be afraid to commit, I'll be happy to.Give me some advice, I'll be glad.
+
