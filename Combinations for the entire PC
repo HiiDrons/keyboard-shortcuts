@@ -1,5 +1,22 @@
+For working with text:
 Ctrl + Shift + V — insert text without formatting. 
 Win + V — open the clipboard log. 
 Shift + F3 — make uppercase letters lowercase.
 Ctrl + Home and Ctrl + End — move to the beginning and end of the document.
 Ctrl + Backspace and Ctrl + Del — delete the whole word.
+
+To capture the screen:
+Win + PrtScn — take a screenshot of the entire screen. 
+Win + Shift + S — take a screenshot of a part of the screen. 
+Win + Alt + R — record video from the screen. 
+
+To control the system:
+Win + Tab — manage desktops, all windows and desktops will be arranged in the form of tiles with thumbnails. 
+Ctrl + Win + ← and Ctrl + Win + → — switch between desktops by scrolling forward or backward. 
+Win + M — minimize all windows, and the combination Win + Shift + M — expand them to full screen.
+Win + L - lock the computer.
+
+For working with folders and files:
+Win + E — open File Explorer, "My computer" with disks and folders in quick access.
+Ctrl + Shift + N — create a folder in the explorer. 
+F2 — rename the folder.
