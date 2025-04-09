@@ -3,3 +3,16 @@ Win + Alt + G — record the last 30 seconds of the active game.
 Win + Alt + R — start or stop recording an active game. 
 Win + Alt + PrtSc — take a screenshot of the active game. 
 Win + Alt + T — show or hide the active recording timer
+ALT + Enter — switch between windowed and fullscreen modes in games; 
+CTRL + E — opens the vehicle selection menu; 
+CTRL + W — opens the vehicle configuration (tuning) menu;
+CTRL + K/CTRL + L — displays the names and file paths of individual vehicle parts;
+CTRL + M — switching modes of visibility of vehicle nodes/objects; 
+CTRL + N — displays useful information about each detail of the object;
+CTRL + T — enable collision triangle;
+CTRL + F — switches the mode of showing the number of frames per second (FPS);
+ALT + U — enable/disable interface elements; 
+ALT + N — turn on/off the fog lights; 
+ALT + O — create a super screenshot; 
+Insert — repair of any damage to the current vehicle/object without changing the position;
+P — setting/cleaning the parking brake.
