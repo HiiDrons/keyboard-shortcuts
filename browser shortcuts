@@ -1,4 +1,4 @@
-
+#
 Ctrl + T — open a new browser tab. 
 Ctrl + W (or Ctrl + F4) — close the current browser tab. 
 Ctrl + Tab — switch between the open tabs on the right.
@@ -16,3 +16,4 @@ Ctrl + C — copy the selected text to the clipboard.
 Ctrl + X — cut the selected text (after deleting it, you can paste it).
 Ctrl + V — paste the current contents of the clipboard. 
 Ctrl + D — add the current page to bookmarks for.
+#
