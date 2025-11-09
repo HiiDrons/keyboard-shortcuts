@@ -8,7 +8,7 @@
 
 #About the repository:
 There are files
-"browser shortcuts"
-"combinations for game"
-"Combinations for the entire PC"
+"browser shortcuts",
+"combinations for game",
+"Combinations for the entire PC".
 
